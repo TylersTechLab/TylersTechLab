@@ -14,7 +14,7 @@
   - [Active Directory Lab -- Detailed Guide for Beginners](https://github.com/TylersTechLab/ActiveDirectoryGuide)
 - <b>Security</b>
   - [Vulnerability Management Lab Using Nessus Essentials](https://github.com/TylersTechLab/NessusEssentialsLab) 
-  - [SIEM Lab (Microsoft Sentinel)](https://github.com/TylersTechLab)
+  - [SIEM Lab (Microsoft Sentinel)](https://github.com/TylersTechLab/MicrosoftSentinelLab)
 - <b>Cisco Networking</b>
   - [Campus Network Lab Using Packet Tracer](https://github.com/TylersTechLab)
  
