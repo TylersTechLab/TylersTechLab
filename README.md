@@ -16,7 +16,7 @@
   - [Vulnerability Management Lab Using Nessus Essentials](https://github.com/TylersTechLab) 
   - [SIEM Lab (Microsoft Sentinel)](https://github.com/TylersTechLab)
 - <b>Cisco Networking</b>
-  - [Campus Network Lab using Packet Tracer](https://github.com/TylersTechLab)
+  - [Campus Network Lab Using Packet Tracer](https://github.com/TylersTechLab)
  
 - <b>Python</b>
   - Soon
