@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>work in progress</h1>
 
-<!--
-**TylersTechLab/TylersTechLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Tyler.</h1>
 
-Here are some ideas to get you started:
+<h2>Certifications</h2>
+ 
+ - <b>CCNA</b> 
+ - <b>Security+</b>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Projects</h2>
+
+- <b>Windows Server 2022</b>
+  - [Active Directory Lab -- Detailed Guide for Beginners](https://github.com/TylersTechLab)
+- <b>Security</b>
+  - [Vulnerability Management Lab using Nessus Essentials](https://github.com/TylersTechLab) 
+  - [SIEM Lab (Microsoft Sentinel)](https://github.com/TylersTechLab)
+- <b>Cisco Networking</b>
+  - [Campus Network Lab using Packet Tracer](https://github.com/TylersTechLab)
+ 
+- <b>Python</b>
+  - Soon
+  
+- <b>PowerShell</b>
+  - Soon
+
