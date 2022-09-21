@@ -1,5 +1,3 @@
-<h1>work in progress</h1>
-
 <h1>Hi, I'm Tyler.</h1>
 
 <h2>Certifications</h2>
