@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tyler.</h1>
 <h2>Under Construction</h2>
-
+Main page and other repos are under a lot of construction. May be unfinished. 
 <h2>Certifications</h2>
  
  - <b>CCNA</b> 
