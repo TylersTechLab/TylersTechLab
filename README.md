@@ -11,11 +11,12 @@ Main page and other repos are under a lot of construction.
 
 - <b>Windows Server 2022</b>
   - [Active Directory Lab -- Detailed Guide for Beginners](https://github.com/TylersTechLab/ActiveDirectoryGuide)
+- <b>Cisco Networking</b>
+  - [Tier-3 and Tier-2 Campus Network Lab Using Packet Tracer](https://github.com/TylersTechLab/CampusNetworkLab)
 - <b>Security</b>
   - [Vulnerability Management Lab Using Nessus Essentials](https://github.com/TylersTechLab/NessusEssentialsLab) 
   - [SIEM Lab (Microsoft Sentinel)](https://github.com/TylersTechLab/MicrosoftSentinelLab)
-- <b>Cisco Networking</b>
-  - [Campus Network Lab Using Packet Tracer](https://github.com/TylersTechLab/CampusNetworkLab)
+
  
 - <b>Python</b>
   - Soon
