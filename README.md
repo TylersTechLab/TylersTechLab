@@ -15,7 +15,6 @@ Main page and other repos are under a lot of construction.
   - [Tier-3 and Tier-2 Campus Network Lab Using Packet Tracer](https://github.com/TylersTechLab/CampusNetworkLab)
 - <b>Security</b>
   - [Vulnerability Management Lab Using Nessus Essentials](https://github.com/TylersTechLab/NessusEssentialsLab) 
-  - [SIEM Lab (Microsoft Sentinel)](https://github.com/TylersTechLab/MicrosoftSentinelLab)
 
  
 - <b>Python</b>
